@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaDeComprasInacap2022</string>
+    <string-array name="unidad">
+        <item>Unidades</item>
+        <item>Kilos</item>
+        <item>Litros</item>
+        <item>Cajas</item>
+        <item>Paquetes</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
